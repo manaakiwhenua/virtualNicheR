@@ -1,0 +1,24 @@
+Package: virtualNicheR
+Type: Package
+Title: virtualNicheR Package
+Version: 1.0
+Authors@R: c(
+    person("Thomas R.", "Etherington" , role=c("aut","cre"), email="etheringtont@landcareresearch.co.nz",comment = ""),
+    person("O. Pascal", "Omondiagbe", role=c("aut"), email="omondiagbep@landcareresearch.co.nz"),
+	person("Landcare Research New Zealand Ltd", role=c("cph"), email="https://www.landcareresearch.co.nz/"))
+Maintainer: Thomas Etherington <etheringtont@landcareresearch.co.nz>
+Description: The virtualNicheR package generates virtual fundamental and realised niches.
+License: MIT + file LICENSE
+Depends: R (>= 3.5)
+Imports: 
+   devtools,
+   diptest (>= 0.75-7)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
+Suggests: 
+    testthat,
+    knitr,
+    rmarkdown
+NeedsCompilation: no
+VignetteBuilder: knitr

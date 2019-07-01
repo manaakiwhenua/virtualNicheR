@@ -1,0 +1,6 @@
+^LICENSE\.md$
+^.*\.Rproj$
+^\.Rproj\.user$
+^virtualNicheR\.pdf$
+^README\.Rmd$
+^README-.*\.png$

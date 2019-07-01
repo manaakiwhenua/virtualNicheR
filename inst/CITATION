@@ -1,0 +1,17 @@
+citHeader("To cite virtualNicheR in publications use:")
+
+citEntry(entry = "Article",
+         title        = "virtualNicheR: creating virtual fundamental and realised niches",
+         author       = personList(as.person("Thomas R. Etherington"),
+                                   as.person("O. Pascal Omondiagbe")),
+         journal = "Journal of Open Source Software",
+         volume = "4",
+         pages = "1-5",
+         year = "2019",
+         url = "https://github.com/manaakiwhenua/virtualNicheR",
+         
+         textVersion  = 
+         paste("Etherington TR, Omondiagbe OP (2019)", 
+               "virtualNicheR: creating virtual fundamental and realised niches",
+               "Journal of Open Source Software")
+)
