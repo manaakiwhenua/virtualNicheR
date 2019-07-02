@@ -13,15 +13,15 @@ and the realised niches are created by defining the positive and
 negative interactions amongst a community of fundamental niches. A full
 description of the `virtualNicheR` package, including connections to
 niche theory and an explanation of the underlying mathematics, can be
-found in the associated [software paper](link).
+found in the associated software paper.
 
 ## Citation
 
 If you use `virtualNicheR` in your research we would be very grateful if
 you could please cite the software using:
 
-[Etherington TR, Omondiagbe, OP (2019) virtualNicheR: creating virtual
-fundamental and realised niches, Journal of Open Source Software](link)
+Etherington TR, Omondiagbe, OP (2019) virtualNicheR: creating virtual
+fundamental and realised niches
 
 ## Installation
 
