@@ -1,6 +1,6 @@
 Package: virtualNicheR
 Type: Package
-Title: virtualNicheR Package
+Title:virtualNicheR Package
 Version: 1.0
 Authors@R: c(
     person("Thomas R.", "Etherington" , role=c("aut","cre"), email="etheringtont@landcareresearch.co.nz",comment = ""),
@@ -21,4 +21,3 @@ Suggests:
     knitr,
     rmarkdown
 NeedsCompilation: no
-VignetteBuilder: knitr

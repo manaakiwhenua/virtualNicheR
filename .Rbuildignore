@@ -2,4 +2,5 @@
 ^\.Rproj\.user$
 ^virtualNicheR\.pdf$
 ^README\.Rmd$
+^README\.md$
 ^README-.*\.png$
