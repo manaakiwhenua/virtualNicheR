@@ -8,7 +8,7 @@ Authors@R: c(
 	person("Landcare Research New Zealand Ltd", role=c("cph"), email="https://www.landcareresearch.co.nz/"))
 Maintainer: Thomas R. Etherington <etheringtont@landcareresearch.co.nz>
 Description: The virtualNicheR package generates virtual fundamental and realised niches.
-License: MIT
+License: MIT + file LICENSE
 Depends: R (>= 3.5)
 Imports: 
    devtools,
