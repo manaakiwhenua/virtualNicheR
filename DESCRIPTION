@@ -2,9 +2,10 @@ Package: virtualNicheR
 Type: Package
 Title: Generating virtual fundamental and realised niches for use in virtual ecology experiments.
 Version: 1.0
-Authors@R: c(person("Thomas R.", "Etherington" , role=c("aut","cre"), email="etheringtont@landcareresearch.co.nz",comment = ""),
-             person("O. Pascal", "Omondiagbe", role=c("aut"), email="omondiagbep@landcareresearch.co.nz"),
-	     person("Landcare Research New Zealand Ltd", role=c("cph"), email="https://www.landcareresearch.co.nz/"))
+Authors@R: c(
+    person("Thomas R.", "Etherington" , role=c("aut","cre"), email="etheringtont@landcareresearch.co.nz",comment = ""),
+    person("O. Pascal", "Omondiagbe", role=c("aut"), email="omondiagbep@landcareresearch.co.nz"),
+    person("Landcare Research New Zealand Ltd", role=c("cph"), email="https://www.landcareresearch.co.nz/"))
 Maintainer: Thomas R. Etherington <etheringtont@landcareresearch.co.nz>
 Description: The ability to generate virtual niches enables virtual ecology 
     experiments that have been advocated for evaluating species-environment 
