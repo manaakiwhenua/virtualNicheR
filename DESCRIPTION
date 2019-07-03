@@ -14,7 +14,7 @@ Description: The ability to generate virtual niches enables virtual ecology
     differences in possible complexity of realised niche shapes that result 
     from biotic interactions.
 License: MIT + file LICENSE
-Depends: R (>= 3.5)
+Depends: R (>= 3.2)
 Imports: 
    devtools,
    diptest (>= 0.75-7)
