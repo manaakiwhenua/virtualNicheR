@@ -45,7 +45,8 @@ devtools::install_github("manaakiwhenua/virtualNicheR")
 ## Dependencies
 
 `virtualNicheR` is not dependant on any additional packages, and was
-developed using `R` version 3.5.1.
+developed using `R` version 3.5.1. and is known to work for at least
+`R` version 3.2.3.
 
 ## Quick Examples
 
