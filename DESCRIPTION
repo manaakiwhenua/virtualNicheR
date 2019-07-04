@@ -1,6 +1,6 @@
 Package: virtualNicheR
 Type: Package
-Title: Generating virtual fundamental and realised niches for use in virtual ecology experiments
+Title: Generating Virtual Fundamental and Realised Niches for Use in Virtual Ecology Experiments
 Version: 1.0
 Authors@R: c(
     person("Thomas R.", "Etherington" , role=c("aut", "cre"), email="etheringtont@landcareresearch.co.nz"),
