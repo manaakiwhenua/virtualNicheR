@@ -13,26 +13,20 @@ and the realised niches are created by defining the positive and
 negative interactions amongst a community of fundamental niches. A full
 description of the `virtualNicheR` package, including connections to
 niche theory and an explanation of the underlying mathematics, can be
-found in the associated software paper.
+found in the associated software paper \[link to be included once
+published\].
 
 ## Citation
 
 If you use `virtualNicheR` in your research we would be very grateful if
-you could please cite the software using:
+you could please cite the software using the following software paper:
 
 Etherington TR, Omondiagbe, OP (2019) virtualNicheR: creating virtual
-fundamental and realised niches
+fundamental and realised niches \[details to be updated once published\]
 
 ## Installation
 
-You can install the released version of `virtualNicheR` from
-[CRAN](https://CRAN.R-project.org) with:
-
-``` r
-install.packages("virtualNicheR")
-```
-
-You can also install `virtualNicheR` from GitHub with:
+You can install `virtualNicheR` from GitHub with:
 
 ``` r
 # install.packages("githubinstall")
@@ -45,8 +39,7 @@ devtools::install_github("manaakiwhenua/virtualNicheR")
 ## Dependencies
 
 `virtualNicheR` is not dependant on any additional packages, and was
-developed using `R` version 3.5.1. and is known to work for at least
-`R` version 3.2.3.
+developed using `R` version 3.5.1.
 
 ## Quick Examples
 

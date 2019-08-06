@@ -152,7 +152,7 @@ While ``virtualNicheR`` fundamental and realised niches are defined in environme
 
 # Availability
 
-``virtualNicheR`` is open source software made available under the MIT license. It can be installed through CRAN [ADD LINK WHEN FINALISED] or via its GitHub repository [ADD LINK WHEN FINALISED].
+``virtualNicheR`` is open source software made available under the MIT license. Installation instructions can be found at the GitHub repository [https://github.com/manaakiwhenua/virtualNicheR](https://github.com/manaakiwhenua/virtualNicheR).
 
 # Acknowledgements
 
