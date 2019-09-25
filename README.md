@@ -1,6 +1,8 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
+[![DOI](https://joss.theoj.org/papers/10.21105/joss.01661/status.svg)](https://doi.org/10.21105/joss.01661)
+
 # virtualNicheR <img src="man/figures/logo.png" align="right" width="200" />
 
 To evaluate how well species-environment models perform in different
@@ -23,16 +25,18 @@ and the realised niches are created by defining the positive and
 negative interactions amongst a community of fundamental niches. A full
 description of the `virtualNicheR` package, including connections to
 niche theory and an explanation of the underlying mathematics, can be
-found in the associated software paper \[link to be included once
-published\].
+found in the associated [software
+paper](https://joss.theoj.org/papers/10.21105/joss.01661).
 
 ## Citation
 
 If you use `virtualNicheR` in your research we would be very grateful if
 you could please cite the software using the following software paper:
 
-Etherington TR, Omondiagbe, OP (2019) virtualNicheR: creating virtual
-fundamental and realised niches \[details to be updated once published\]
+[Etherington TR, Omondiagbe OP (2019) virtualNicheR: generating virtual
+fundamental and realised niches for use in virtual ecology experiments.
+Journal of Open Source
+Software 4:1661](https://joss.theoj.org/papers/10.21105/joss.01661)
 
 ## Community guidelines
 

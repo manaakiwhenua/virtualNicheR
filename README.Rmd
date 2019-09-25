@@ -14,19 +14,21 @@ knitr::opts_chunk$set(
   out.width = "100%"
 )
 ```
+[![DOI](https://joss.theoj.org/papers/10.21105/joss.01661/status.svg)](https://doi.org/10.21105/joss.01661)
+
 # virtualNicheR <img src="man/figures/logo.png" align="right" width="200" />
 
 To evaluate how well species-environment models perform in different situations, modellers need the ability to generate virtual niches that have known properties.  These virtual niches can then form the basis of virtual ecology experiments that can test how well different models perform under different conditions.
 
 `virtualNicheR` is an `R` package that is unique in that it provides an integrated framework that is needed to generate both [fundamental and realised niches](https://en.wikipedia.org/wiki/Ecological_niche).  We envisage that the ability to generate integrated fundamental and realised virtual niches will allow modellers to improve the virtual ecology experiments that have been advocated for evaluating species-environment relationship models.
 
-The fundamental niches are defined as [multivariate normal distributions](https://en.wikipedia.org/wiki/Multivariate_normal_distribution), and the realised niches are created by defining the positive and negative interactions amongst a community of fundamental niches.  A full description of the `virtualNicheR` package, including connections to niche theory and an explanation of the underlying mathematics, can be found in the associated software paper [link to be included once published].
+The fundamental niches are defined as [multivariate normal distributions](https://en.wikipedia.org/wiki/Multivariate_normal_distribution), and the realised niches are created by defining the positive and negative interactions amongst a community of fundamental niches.  A full description of the `virtualNicheR` package, including connections to niche theory and an explanation of the underlying mathematics, can be found in the associated [software paper](https://joss.theoj.org/papers/10.21105/joss.01661).
 
 ## Citation
 
 If you use `virtualNicheR` in your research we would be very grateful if you could please cite the software using the following software paper:
 
-Etherington TR, Omondiagbe, OP (2019) virtualNicheR: creating virtual fundamental and realised niches [details to be updated once published]
+[Etherington TR, Omondiagbe OP (2019) virtualNicheR: generating virtual fundamental and realised niches for use in virtual ecology experiments. Journal of Open Source Software 4:1661](https://joss.theoj.org/papers/10.21105/joss.01661)
 
 ## Community guidelines
 
