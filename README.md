@@ -26,7 +26,12 @@ negative interactions amongst a community of fundamental niches. A full
 description of the `virtualNicheR` package, including connections to
 niche theory and an explanation of the underlying mathematics, can be
 found in the associated [software
-paper](https://joss.theoj.org/papers/10.21105/joss.01661).
+paper](https://joss.theoj.org/papers/10.21105/joss.01661). While the
+examples used here are only for 2-dimensions, `virtualNicheR` will work
+in *n*-dimensions, and for those interseted in learning more about *n*
+\>2 applications we would refer you to the `virtualNicheR` wiki for a
+[3-dimensional
+example](https://github.com/manaakiwhenua/virtualNicheR/wiki/virtualNicheR-in-3-dimensions).
 
 ## Citation
 
