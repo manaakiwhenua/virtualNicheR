@@ -74,7 +74,8 @@ filled.contour(unique(niche.XY[,1]), unique(niche.XY[,2]), realNiche1,
 
 }
 \references{
-Etherington TR, Omondiagbe, OP (2019) virtualNicheR: creating virtual fundamental and realised niches
+Etherington TR, Omondiagbe OP (2019) virtualNicheR: generating virtual fundamental and realised niches
+for use in virtual ecology experiments. Journal of Open Source Software 4:1661 \url{https://doi.org/10.21105/joss.01661}
 }
 \seealso{
 Uses \code{\link{fund.niche}}

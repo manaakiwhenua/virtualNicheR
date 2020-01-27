@@ -31,3 +31,7 @@ of coordinates for each dimension is given by \code{nCoords}.
 # Niche space grid coordinates usage
 niche.XY = niche.grid.coords(mins=c(15,0), maxs=c(35,200), nCoords=5)
 }
+\references{
+Etherington TR, Omondiagbe OP (2019) virtualNicheR: generating virtual fundamental and realised niches
+for use in virtual ecology experiments. Journal of Open Source Software 4:1661 \url{https://doi.org/10.21105/joss.01661}
+}

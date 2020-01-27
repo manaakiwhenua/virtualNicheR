@@ -13,7 +13,7 @@ Description: The ability to generate virtual niches enables virtual ecology
     algebra this package provides a unique computational framework to generate 
     integrated fundamental and realised niches, which is important given 
     differences in possible complexity of realised niche shapes that result 
-    from biotic interactions.
+    from biotic interactions Etherington and Omondiagbe (2019) <doi:10.21105/joss.01661> .
 License: MIT + file LICENSE
 Depends: R (>= 3.2)
 Imports: 
