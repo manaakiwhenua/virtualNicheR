@@ -4,5 +4,9 @@
 ^README\.Rmd$
 ^README\.md$
 ^README-.*\.png$
-LICENSE.md
-paper
+^README.html$
+^README_files$
+^LICENSE.md$
+^paper$
+^wiki$
+^virtualNicheR_1\.0\.pdf$
