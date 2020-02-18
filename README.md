@@ -1,7 +1,7 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-[![mwlr-standards](https://github.com/manaakiwhenua/virtualNicheR/workflows/mwlr-standards/badge.svg)](https://github.com/manaakiwhenua/mwlr-standards-action)
+[![mwlr-standards](https://github.com/manaakiwhenua/virtualNicheR/workflows/mwlr-standards/badge.svg)](https://github.com/manaakiwhenua/manaakiwhenua-standards)
 [![DOI](https://joss.theoj.org/papers/10.21105/joss.01661/status.svg)](https://doi.org/10.21105/joss.01661)
 
 # virtualNicheR <img src="man/figures/logo.png" align="right" width="200" />

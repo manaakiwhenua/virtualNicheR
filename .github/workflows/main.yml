@@ -9,4 +9,4 @@ jobs         :
       - name : 'Checkout'
         uses : 'actions/checkout@v2'
       - name : 'MWLR Standards'
-        uses :  './'
+        uses : manaakiwhenua/manaakiwhenua-standards@v0.1.1
