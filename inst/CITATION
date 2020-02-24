@@ -1,17 +1,19 @@
-citHeader("To cite virtualNicheR in publications use:")
+citHeader("To cite virtualNicheR in publications please use:")
 
 citEntry(entry = "Article",
-         title        = "virtualNicheR: creating virtual fundamental and realised niches",
-         author       = personList(as.person("Thomas R. Etherington"),
-                                   as.person("O. Pascal Omondiagbe")),
-         journal = "Journal of Open Source Software",
-         volume = "4",
-         pages = "1-5",
-         year = "2019",
-         url = "https://github.com/manaakiwhenua/virtualNicheR",
+  title        = "{virtualNicheR}: generating virtual fundamental andrealised niches for use in virtual ecology experiments",
+  author       = personList(as.person("Thomas R. Etherington"),
+                            as.person("O. Pascal Omondiagbe")),
+  journal      = "Journal of Open Source Software",
+  year         = "2019",
+  volume       = "4",
+  number       = "41",
+  pages        = "1661",
+  url          = "https://joss.theoj.org/papers/10.21105/joss.01661",
          
-         textVersion  = 
-         paste("Etherington TR, Omondiagbe OP (2019)", 
-               "virtualNicheR: creating virtual fundamental and realised niches",
-               "Journal of Open Source Software")
+  textVersion  = 
+  paste("Etherington TR, Omondiagbe OP (2019).", 
+        "virtualNicheR: generating virtual fundamental andrealised niches for use in virtual ecology experiments",
+        "Journal of Open Source Software, 4(41), 1661",
+		"URL https://joss.theoj.org/papers/10.21105/joss.01661.")
 )
