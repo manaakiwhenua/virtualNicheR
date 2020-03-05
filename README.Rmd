@@ -37,7 +37,13 @@ We very much welcome input from others!  If you find a bug, need some help, or c
 
 ## Installation
 
-You can install `virtualNicheR` from GitHub with:
+`virtualNicheR` is available in [CRAN](https://CRAN.R-project.org/package=virtualNicheR) so it can be easily installed with:
+
+``` r
+install.packages("virtualNicheR")
+```
+
+You can also install `virtualNicheR` directly from GitHub with either:
 
 ``` r
 # install.packages("githubinstall")
