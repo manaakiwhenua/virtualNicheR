@@ -56,15 +56,7 @@ functionality yourself.
 
 ## Installation
 
-`virtualNicheR` is available in
-[CRAN](https://CRAN.R-project.org/package=virtualNicheR) so it can be
-easily installed with:
-
-``` r
-install.packages("virtualNicheR")
-```
-
-You can also install `virtualNicheR` directly from GitHub with either:
+You can install `virtualNicheR` directly from GitHub with either:
 
 ``` r
 # install.packages("githubinstall")
